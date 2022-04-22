@@ -1,6 +1,6 @@
 # Ft_Printf
 ---------------------------------------------------
-## 42 - Rewrite the printf function from Libc
+## 42 - Rewrite the printf function from Libc.
 ---------------------------------------------------
 
 ## Final grade : 100/100
